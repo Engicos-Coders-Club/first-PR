@@ -1,5 +1,5 @@
 # first-PR
-A open repository where students can learn to make a Pull Request. 🙌
+A open repository where students can learn to make a Pull request. 🙌
 
 > Sounds interesting? 😀
 Add your names to the following list and make a PR.
