@@ -25,4 +25,4 @@ Create a copy of this, and replace the values:
 |--------------|-----------|------------|
 | Sajal Mandrekar | 4      | Linux, Data Analytics, ML |
 | Sanjay S Kumar | 1      | Linux, LLMs |
-| Gladson Dias | 1      | Linux, LLMs |
+| Gladson Dias | 1      |Webdev ,ML/AI |
