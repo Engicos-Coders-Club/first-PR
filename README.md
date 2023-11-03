@@ -24,3 +24,5 @@ Create a copy of this, and replace the values:
 | NAME         | YEAR     | INTERESTS |
 |--------------|-----------|------------|
 | Sajal Mandrekar | 4      | Linux, Data Analytics, ML |
+| Sanjay S Kumar | 1      | Linux, LLMs |
+| Rushikesh   | 1 | Web Development,Web designing |
