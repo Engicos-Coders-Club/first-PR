@@ -24,3 +24,4 @@ Create a copy of this, and replace the values:
 | NAME         | YEAR     | INTERESTS |
 |--------------|-----------|------------|
 | Sajal Mandrekar | 4      | Linux, Data Analytics, ML |
+| Johann Pereira | 1      | AI , Blockchain, Backend |
