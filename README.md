@@ -24,3 +24,4 @@ Create a copy of this, and replace the values:
 | NAME         | YEAR     | INTERESTS |
 |--------------|-----------|------------|
 | Sajal Mandrekar | 4      | Linux, Data Analytics, ML |
+| Chirag Mahajan | 1      | Backend, Data Analytics, ML/AI |
