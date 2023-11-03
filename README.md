@@ -21,6 +21,7 @@ Create a copy of this, and replace the values:
 
 ## My First Pull Request
 
-| NAME         | YEAR     | INTERESTS |
-|--------------|-----------|------------|
+| NAME            | YEAR   | INTERESTS                 |
+|-----------------|--------|---------------------------|
 | Sajal Mandrekar | 4      | Linux, Data Analytics, ML |
+| Rohan U Kholker | 1      | WebDev, Robotics, IOT     |
