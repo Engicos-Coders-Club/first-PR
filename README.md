@@ -25,3 +25,4 @@ Create a copy of this, and replace the values:
 |--------------|-----------|------------|
 | Sajal Mandrekar | 4      | Linux, Data Analytics, ML |
 | Sanjay S Kumar | 1      | Linux, LLMs |
+| Enosh M Gomes  | 1   | FrontEnd, ML |
