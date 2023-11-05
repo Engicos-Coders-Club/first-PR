@@ -1,5 +1,5 @@
 # first-PR
-A open repository where students can learn to make a Pull Request. 🙌
+A open repository where students can learn to make a Pull request. 🙌
 
 > Sounds interesting? 😀
 Add your names to the following list and make a PR.
@@ -26,5 +26,6 @@ Create a copy of this, and replace the values:
 | Sajal Mandrekar | 4      | Linux, Data Analytics, ML |
 | Sanjay S Kumar | 1      | Linux, LLMs |
 | Vaibhav Toraskar| 1      |            |
-| Gladson Dias | 1      |Webdev ,ML/AI |
 | Simran Naik     |    1   | Reading |
+| louella fernandes |1       | sketching |
+| Gladson Dias | 1      |Webdev ,ML/AI |
