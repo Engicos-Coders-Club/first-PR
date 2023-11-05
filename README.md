@@ -31,3 +31,4 @@ Create a copy of this, and replace the values:
 | Gladson Dias | 1      |Webdev ,ML/AI |
 | Omkar Kunkolienker | 1      | Robotics, ML |
 | Chirag Mahajan | 1      | Backend, Data Analytics, ML/AI |
+| Jai Gauns Dessai | 1      | Data Analytics, Backend |
