@@ -34,3 +34,4 @@ Create a copy of this, and replace the values:
 | Jai Gauns Dessai | 1      | Data Analytics, Backend |
 | Neil costa      | 1      | linux,vms,electronics     |
 | Enosh M Gomes  | 1   | FrontEnd, ML |
+| Johann Pereira | 1      | AI , Blockchain, Backend |
