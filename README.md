@@ -29,3 +29,4 @@ Create a copy of this, and replace the values:
 | Simran Naik     |    1   | Reading |
 | louella fernandes |1       | sketching |
 | Gladson Dias | 1      |Webdev ,ML/AI |
+| Omkar Kunkolienker | 1      | Robotics, ML |
