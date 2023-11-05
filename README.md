@@ -27,3 +27,4 @@ Create a copy of this, and replace the values:
 | Sanjay S Kumar | 1      | Linux, LLMs |
 | Vaibhav Toraskar| 1      |            |
 | Gladson Dias | 1      |Webdev ,ML/AI |
+| Simran Naik     |    1   | Reading |
