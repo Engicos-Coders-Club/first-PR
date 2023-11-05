@@ -22,7 +22,7 @@ Create a copy of this, and replace the values:
 ## My First Pull Request
 
 | NAME         | YEAR     | INTERESTS |
-|--------------|-----------|------------|
+|-----------------|--------|---------------------------|
 | Sajal Mandrekar | 4      | Linux, Data Analytics, ML |
 | Sanjay S Kumar | 1      | Linux, LLMs |
 | Vaibhav Toraskar| 1      |            |
@@ -32,3 +32,4 @@ Create a copy of this, and replace the values:
 | Omkar Kunkolienker | 1      | Robotics, ML |
 | Chirag Mahajan | 1      | Backend, Data Analytics, ML/AI |
 | Jai Gauns Dessai | 1      | Data Analytics, Backend |
+| Neil costa      | 1      | linux,vms,electronics     |
