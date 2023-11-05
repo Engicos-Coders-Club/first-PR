@@ -30,3 +30,4 @@ Create a copy of this, and replace the values:
 | louella fernandes |1       | sketching |
 | Gladson Dias | 1      |Webdev ,ML/AI |
 | Omkar Kunkolienker | 1      | Robotics, ML |
+| Chirag Mahajan | 1      | Backend, Data Analytics, ML/AI |
