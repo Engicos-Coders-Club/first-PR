@@ -24,5 +24,7 @@ Create a copy of this, and replace the values:
 | NAME         | YEAR     | INTERESTS |
 |--------------|-----------|------------|
 | Sajal Mandrekar | 4      | Linux, Data Analytics, ML |
-| Simran Naik     |    1   | Reading                   |
-
+| Sanjay S Kumar | 1      | Linux, LLMs |
+| Vaibhav Toraskar| 1      |            |
+| Gladson Dias | 1      |Webdev ,ML/AI |
+| Simran Naik     |    1   | Reading |
